@@ -1,7 +1,4 @@
-'use strict';
+import Dropdown from "@pjdev/materialize-ui-dropdown";
+import Carousel from "@pjdev/materialize-ui-carousel";
 
-module.exports = materializeUi;
-
-function materializeUi() {
-    // TODO
-}
+export { Dropdown, Carousel };
