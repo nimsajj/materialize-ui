@@ -25,5 +25,15 @@
   },
   "bugs": {
     "url": "https://github.com/nimsajj/materialize-ui/issues"
+  },
+  "devDependencies": {
+    "react": "^17.0.1"
+  },
+  "peerDependencies": {
+    "react": "^17.0.1"
+  },
+  "dependencies": {
+    "materialize-css": "^1.0.0",
+    "prop-types": "^15.7.2"
   }
 }

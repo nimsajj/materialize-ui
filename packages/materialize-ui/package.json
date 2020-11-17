@@ -25,5 +25,9 @@
   },
   "bugs": {
     "url": "https://github.com/nimsajj/materialize-ui/issues"
+  },
+  "dependencies": {
+    "@pjdev/materialize-ui-carousel": "^0.0.0",
+    "@pjdev/materialize-ui-dropdown": "^0.0.0"
   }
 }
